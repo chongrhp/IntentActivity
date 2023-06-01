@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentActivity</string>
+    <string name="app_button">Goto next screen</string>
+    <string name="app_welcome">Welcome to Screen 2</string>
+</resources>
